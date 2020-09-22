@@ -19,10 +19,10 @@ us that those were the most effective drugs since they were used in a bigger pop
 * Scipy
 
 
-<img src="image1.png" alt="drugs" width="500" height="600">
+<img src="image1.png" alt="drugs" width="500">
 
-<img src="image2.png" alt="male females" width="500" height="600">
+<img src="image2.png" alt="male females" width="500">
 
-<img src="image3.png" alt="other" width="500" height="600">
+<img src="image3.png" alt="tumor volume" width="500">
 
-<img src="image4.png" alt="regression" width="500" height="600">
+<img src="image4.png" alt="regression" width="500">
