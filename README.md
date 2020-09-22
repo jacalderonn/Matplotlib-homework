@@ -17,3 +17,12 @@ us that those were the most effective drugs since they were used in a bigger pop
 * Matplotlib
 * Pandas
 * Scipy
+
+
+<img src="image1.jpg" alt="drugs" width="500" height="600">
+
+<img src="image2.jpg" alt="male females" width="500" height="600">
+
+<img src="image3.jpg" alt="other" width="500" height="600">
+
+<img src="image4.jpg" alt="regression" width="500" height="600">
